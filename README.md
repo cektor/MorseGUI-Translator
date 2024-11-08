@@ -27,9 +27,13 @@ cd MorseGUI-Translator/
 ```
 
 ```bash
+python morsgui.py
+```
+or
+
+```bash
 python3 morsgui.py
 ```
-
 
 # Screenshot
 
