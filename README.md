@@ -18,7 +18,7 @@ sudo apt install python3 -y  && sudo apt install pip3 install pyserial
 https://fatihonder.org.tr/python-ile-mors-translator-gui/
 
 # Installation
-Install cleaning
+Install MorseGUI-Translator
 ```bash
 sudo git clone https://github.com/cektor/MorseGUI-Translator.git
 ```
