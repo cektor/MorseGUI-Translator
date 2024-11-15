@@ -42,12 +42,12 @@ pip install pyinstaller
 
 Linux Terminal 
 ```bash
-pyinstaller --onefile --windowed bytsconvert.py
+pyinstaller --onefile --windowed morsgui.py
 ```
 
 Windows VSCode Terminal 
 ```bash
-pyinstaller --onefile --noconsole bytsconvert.py
+pyinstaller --onefile --noconsole morsgui.py
 ```
 
 # To run directly on Windows or Linux
