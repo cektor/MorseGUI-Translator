@@ -34,6 +34,27 @@ or
 ```bash
 python3 morsgui.py
 ```
+# To compile
+
+NOTE: For Compilation Process pyinstaller must be installed. To Install If Not Installed.
+
+pip install pyinstaller 
+
+Linux Terminal 
+```bash
+pyinstaller --onefile --windowed bytsconvert.py
+```
+
+Windows VSCode Terminal 
+```bash
+pyinstaller --onefile --noconsole bytsconvert.py
+```
+
+# To run directly on Windows or Linux
+Download and Run According to Your Operating System from the Link
+
+https://github.com/cektor/MorseGUI-Translator/releases/tag/1.0
+
 
 # Screenshot
 
