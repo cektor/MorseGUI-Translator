@@ -61,6 +61,6 @@ Download and Run According to Your Operating System from the Link
 https://github.com/cektor/MorseGUI-Translator/releases/tag/1.0
 
 
-# Screenshot
+# Linux Screenshot
 
 ![Demo](morsgui.png) 
