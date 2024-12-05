@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # MorseGUI-Translator
 GUI Morse to Text and Text to Morse Translator Written in Python Language Automatic Translation and Sending Directly over Amateur Radio with Accurate Implementation
 
